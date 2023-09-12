@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Veer\\Desktop\\C_Sharp\\C_Sharp.csproj",
+      "projectUniqueName": "c:\\Users\\Veer\\Desktop\\GameDevlopment\\C_Sharp_Basic_For_GameDev\\C_Sharp.csproj",
       "projectName": "C_Sharp",
-      "projectPath": "C:\\Users\\Veer\\Desktop\\C_Sharp\\C_Sharp.csproj",
+      "projectPath": "c:\\Users\\Veer\\Desktop\\GameDevlopment\\C_Sharp_Basic_For_GameDev\\C_Sharp.csproj",
       "packagesPath": "C:\\Users\\Veer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Veer\\Desktop\\C_Sharp\\obj\\",
+      "outputPath": "c:\\Users\\Veer\\Desktop\\GameDevlopment\\C_Sharp_Basic_For_GameDev\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Veer\\AppData\\Roaming\\NuGet\\NuGet.Config"

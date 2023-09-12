@@ -1,16 +1,22 @@
+using AbstractNamspace;
 using MyNameSpace;
+using MyDataStructures;
 class MainClass
 {
 
-    static MyClassB myClassBObj = new("Tanveer" , 23);
+  static BClass bClassObj = new("Tanveer" , 23);
+
+  static ArrayDsa arrayDsa = new();
+  static ListDsa listDsa = new();
+
+
 
     public static void Main()
     {
-        myClassBObj.Grade = 'B';
-
-        Console.WriteLine("Grade of Student is : " +myClassBObj.Grade);
-        Console.WriteLine("Name  of Student is : " +myClassBObj.Name);
-        Console.WriteLine("Age of Student is : " +myClassBObj.Age);
+      Console.WriteLine("Name :-" + bClassObj.Name + "---" + bClassObj.Num);
+      bClassObj.Ishow();
+      arrayDsa.DisplayNumbers();
+      listDsa.DisplayList();
     }
 
     
