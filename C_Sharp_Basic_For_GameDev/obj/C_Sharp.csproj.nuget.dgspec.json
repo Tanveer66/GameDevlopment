@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Veer\\Desktop\\C_Sharp\\C_Sharp.csproj": {}
+    "C:\\Users\\Veer\\Desktop\\GameDevlopment\\C_Sharp_Basic_For_GameDev\\C_Sharp.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Veer\\Desktop\\C_Sharp\\C_Sharp.csproj": {
+    "C:\\Users\\Veer\\Desktop\\GameDevlopment\\C_Sharp_Basic_For_GameDev\\C_Sharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Veer\\Desktop\\C_Sharp\\C_Sharp.csproj",
+        "projectUniqueName": "C:\\Users\\Veer\\Desktop\\GameDevlopment\\C_Sharp_Basic_For_GameDev\\C_Sharp.csproj",
         "projectName": "C_Sharp",
-        "projectPath": "c:\\Users\\Veer\\Desktop\\C_Sharp\\C_Sharp.csproj",
+        "projectPath": "C:\\Users\\Veer\\Desktop\\GameDevlopment\\C_Sharp_Basic_For_GameDev\\C_Sharp.csproj",
         "packagesPath": "C:\\Users\\Veer\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Veer\\Desktop\\C_Sharp\\obj\\",
+        "outputPath": "C:\\Users\\Veer\\Desktop\\GameDevlopment\\C_Sharp_Basic_For_GameDev\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Veer\\AppData\\Roaming\\NuGet\\NuGet.Config"
